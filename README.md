@@ -53,15 +53,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://x.com/GitUtk">
-    <img src="https://img.shields.io/badge/-@GitUtk-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="X Profile" />
-  </a>
-</p>
-
----
-
 ### ✨ Let's Create Something Epic!
 <div align="center">
   <p>From web apps to AI models to IoT gadgets, I’m all about innovation. Check out my repos and let’s collaborate!</p>
